@@ -1,0 +1,2 @@
+# parallel-description
+intelligent calulator
